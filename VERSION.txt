@@ -1,1 +1,1 @@
-FLOPs v1.0.0
+FLOPs v1.0.0-beta
