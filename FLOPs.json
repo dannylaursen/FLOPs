@@ -1,0 +1,9 @@
+{
+    "path": "$FLOPs",
+    "load_package_once": true,
+    "env": [
+        {
+            "FLOPs": "G:/Houdini/FLOPs"
+        }
+    ]
+}
